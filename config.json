@@ -1,0 +1,31 @@
+{
+  "keywords_any": ["python", "backend", "data engineer", "machine learning", "ml engineer", "software engineer", "full stack", "developer", "quantum", "qiskit", "pennylane"],
+  "keywords_exclude": ["principal", "director", "vp ", "head of", "intern", "unpaid"],
+
+  "countries_allow": ["united states", "usa", "us", "remote", "anywhere", "worldwide",
+                      "india", "japan", "australia", "new zealand",
+                      "uk", "united kingdom", "germany", "france", "netherlands", "ireland",
+                      "spain", "italy", "sweden", "poland", "portugal", "switzerland", "europe", "eu"],
+  "locations_exclude": ["pakistan", "karachi", "lahore", "islamabad"],
+
+  "prefer_remote": true,
+  "max_age_days": 30,
+  "max_per_source": 20000,
+
+  "sources": {
+    "remoteok":  true,
+    "remotive":  true,
+    "arbeitnow": true,
+    "jobicy":    true,
+    "greenhouse": true,
+    "lever":     true,
+    "ashby":     true,
+    "adzuna":    false
+  },
+
+  "adzuna": {
+    "app_id": "",
+    "app_key": "",
+    "countries": ["us", "gb", "in", "au", "nz", "de", "fr", "nl"]
+  }
+}

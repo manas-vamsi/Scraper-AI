@@ -1,0 +1,492 @@
+platform,token,company_name
+greenhouse,stripe,Stripe
+greenhouse,databricks,Databricks
+greenhouse,airbnb,Airbnb
+greenhouse,coinbase,Coinbase
+lever,netflix,Netflix
+lever,plaid,Plaid
+ashby,ramp,Ramp
+ashby,linear,Linear
+greenhouse,anthropic,Anthropic
+greenhouse,gitlab,GitLab
+greenhouse,robinhood,Robinhood
+greenhouse,instacart,Instacart
+greenhouse,dropbox,Dropbox
+greenhouse,brex,Brex
+greenhouse,figma,Figma
+greenhouse,discord,Discord
+greenhouse,lyft,Lyft
+greenhouse,pinterest,Pinterest
+greenhouse,asana,Asana
+greenhouse,samsara,Samsara
+greenhouse,affirm,Affirm
+greenhouse,cloudflare,Cloudflare
+greenhouse,twitch,Twitch
+greenhouse,reddit,Reddit
+greenhouse,elastic,Elastic
+greenhouse,gusto,Gusto
+greenhouse,udemy,Udemy
+greenhouse,airtable,Airtable
+greenhouse,scaleai,Scale AI
+greenhouse,monzo,Monzo
+greenhouse,gocardless,GoCardless
+greenhouse,postman,Postman
+lever,spotify,Spotify
+lever,leantaas,LeanTaaS
+lever,swordhealth,Sword Health
+ashby,vanta,Vanta
+ashby,posthog,PostHog
+ashby,replit,Replit
+ashby,runway,Runway
+ashby,deel,Deel
+ashby,notion,Notion
+ashby,browserbase,Browserbase
+ashby,modal,Modal
+ashby,elevenlabs,ElevenLabs
+greenhouse,hackerrank,HackerRank
+greenhouse,amplitude,Amplitude
+ashby,circuithub,CircuitHub
+ashby,rescale,Rescale
+ashby,sift,Sift
+greenhouse,smartasset,SmartAsset
+ashby,zapier,Zapier
+lever,quartzy,Quartzy
+ashby,padlet,Padlet
+greenhouse,radar,RADAR
+greenhouse,goatgroup,GOAT Group
+greenhouse,lob,Lob
+greenhouse,webflow,Webflow
+ashby,influxdata,InfluxData
+greenhouse,flexport,Flexport
+greenhouse,checkr,Checkr
+ashby,ycombinator,Y Combinator
+greenhouse,algolia,Algolia
+ashby,cambly,Cambly
+greenhouse,hive,Hive
+greenhouse,qventus,Qventus
+greenhouse,tempo,Tempo
+ashby,new-story,New Story
+greenhouse,ginkgobioworks,Ginkgo Bioworks
+greenhouse,reach,Reach
+greenhouse,givecampus,GiveCampus
+lever,mashgin,Mashgin
+greenhouse,xendit,Xendit
+ashby,verge-genomics,Verge Genomics
+greenhouse,bitmovin,Bitmovin
+greenhouse,instawork,Instawork
+greenhouse,lattice,Lattice
+ashby,mux,Mux
+ashby,deepgram,Deepgram
+greenhouse,humaninterest,Human Interest
+lever,tovala,Tovala
+ashby,eightsleep,Eight Sleep
+greenhouse,sendbird,Sendbird
+greenhouse,astranis,Astranis
+ashby,gecko-robotics,Gecko Robotics
+greenhouse,billiontoone,BillionToOne
+ashby,vetcove,Vetcove
+ashby,castle,Castle
+lever,thunkable,Thunkable
+lever,netomi,Netomi
+greenhouse,novacredit,Nova Credit
+ashby,miso,Miso
+ashby,classdojo,ClassDojo
+lever,meesho,Meesho
+ashby,speak,Speak
+lever,people-ai,People.ai
+ashby,clipboard,Clipboard
+greenhouse,nanonets,NanoNets
+greenhouse,aon3d,AON3D
+ashby,mednet,Mednet
+lever,multiplylabs,Multiply Labs
+greenhouse,faire,Faire
+lever,snappr,Snappr
+ashby,ambient.ai,Ambient.ai
+ashby,upcodes,UpCodes
+lever,skyways,Skyways
+ashby,prelim,Prelim
+greenhouse,assemblyai,AssemblyAI
+ashby,spellbrush,Spellbrush
+greenhouse,maymobility,May Mobility
+ashby,cointracker,CoinTracker
+ashby,promise,Promise
+greenhouse,pelago,Pelago
+ashby,assembly,Assembly
+greenhouse,groww,Groww
+lever,biorender,BioRender
+ashby,substack,Substack
+greenhouse,modernhealth,Modern Health
+greenhouse,swayable,Swayable
+ashby,revenuecat,RevenueCat
+ashby,titan,Titan
+lever,captivateiq,CaptivateIQ
+ashby,duffel,Duffel
+ashby,moderntreasury,Modern Treasury
+ashby,versemedical,Verse Medical
+greenhouse,prodigal,Prodigal
+greenhouse,meruhealth,Meru Health
+ashby,mutiny,Mutiny
+greenhouse,pineparkhealth,Pine Park Health
+ashby,overview,Overview
+lever,mytos,Mytos
+greenhouse,kalshi,Kalshi
+ashby,parker,Parker
+greenhouse,postscript,Postscript
+lever,culdesac,Culdesac
+lever,canarytechnologies,Canary Technologies
+greenhouse,nabis,Nabis
+ashby,golinks,GoLinks
+ashby,middesk,Middesk
+ashby,ashby,Ashby
+ashby,doppler,Doppler
+greenhouse,alpaca,Alpaca
+ashby,probablygenetic,Probably Genetic
+ashby,bunkerhillhealth,Bunkerhill Health
+ashby,beacons,Beacons
+ashby,verto,Verto
+lever,zippi,Zippi
+greenhouse,odeko,Odeko
+ashby,dex,Dex
+greenhouse,embrace,Embrace
+greenhouse,prolific,Prolific
+ashby,trm-labs,TRM Labs
+ashby,atlas,Atlas
+greenhouse,pairteam,Pair Team
+ashby,shortstory,Short Story
+greenhouse,recidiviz,Recidiviz
+ashby,freshpaint,Freshpaint
+ashby,curri,Curri
+ashby,deepnote,Deepnote
+ashby,vorticity,Vorticity
+greenhouse,ophelia,Ophelia
+ashby,accord,Accord
+lever,fampay,FamPay
+ashby,paragon,Paragon
+greenhouse,haven,Haven
+ashby,ditto,Ditto
+ashby,benepass,Benepass
+lever,porter,Porter
+lever,handoff,Handoff
+ashby,ello,Ello
+ashby,vori,Vori
+ashby,aios,AIOS
+greenhouse,generalproximity,General Proximity
+ashby,junction,Junction
+lever,postera,PostEra
+ashby,stable,Stable
+ashby,candidhealth,Candid Health
+ashby,belvo,Belvo
+ashby,zip,Zip
+ashby,luminai,Luminai
+ashby,roboflow,Roboflow
+ashby,datafold,Datafold
+ashby,atob,AtoB
+ashby,blissway,Blissway
+ashby,lightdash,Lightdash
+ashby,atomic,Atomic
+lever,doola,doola
+ashby,notabene,Notabene
+ashby,kingdom,Kingdom
+ashby,flint,Flint
+ashby,hotplate,Hotplate
+greenhouse,carbonchain,CarbonChain
+ashby,arketa,Arketa
+ashby,ready,Ready
+ashby,taktile,Taktile
+ashby,finch,Finch
+ashby,fieldguide,Fieldguide
+greenhouse,albedo,Albedo
+ashby,abacum,Abacum
+ashby,authzed,authzed
+ashby,humaans,Humaans
+ashby,glimpse,Glimpse
+ashby,signoz,SigNoz
+ashby,herondata,Heron Data
+ashby,spruceid,SpruceID
+ashby,atomicindustries,Atomic Industries
+ashby,encord,Encord
+lever,smartcuts,Smartcuts
+ashby,axle-health,Axle Health
+ashby,vapi,Vapi
+ashby,anima,Anima
+ashby,fathom,Fathom
+lever,gridware,Gridware
+ashby,popl,Popl
+ashby,liveflow,LiveFlow
+ashby,camber,Camber
+ashby,enode,Enode
+ashby,homebase,Homebase
+ashby,topline-pro,Topline Pro
+ashby,quicknode,Quicknode
+ashby,greatquestion,Great Question
+ashby,phoenix,Phoenix
+lever,tractian,Tractian
+ashby,ziina,Ziina
+greenhouse,gigs,Gigs
+greenhouse,prospa,Prospa
+ashby,infracost,Infracost
+ashby,flutterflow,FlutterFlow
+ashby,svix,Svix
+ashby,triomics,Triomics
+ashby,shepherd,Shepherd
+ashby,slope,Slope
+ashby,odys-aviation,Odys Aviation
+ashby,replo,Replo
+ashby,arq,ARQ
+ashby,legionhealth,Legion Health
+ashby,confido,Confido
+ashby,parallel-bio,Parallel Bio
+ashby,lago,Lago
+ashby,tavus,Tavus
+ashby,kodex,Kodex
+ashby,double,Double
+ashby,bree,Bree
+ashby,warpbuild,WarpBuild
+ashby,formance,Formance
+ashby,oneschema,OneSchema
+greenhouse,niraenergy,Nira Energy
+ashby,aleph,Aleph
+ashby,adaptyv,Adaptyv
+ashby,meticulous,Meticulous
+greenhouse,coast,Coast
+ashby,mach9,Mach9
+ashby,zensors,Zensors
+lever,bolster,Bolster
+ashby,output,Output Biosciences
+ashby,aviator,Aviator
+ashby,stepful,Stepful
+ashby,turion-space,Turion Space
+ashby,charge-robotics,Charge Robotics
+ashby,nash,Nash
+ashby,agave,Agave
+ashby,sieve,Sieve
+greenhouse,beam,Beam
+ashby,invert,Invert
+ashby,happl,Happl
+ashby,sphere,Sphere
+ashby,mintlify,Mintlify
+ashby,permitflow,PermitFlow
+ashby,complete,Complete
+greenhouse,agency,Agency
+ashby,posh,Posh
+ashby,voize,voize
+greenhouse,attain,Attain
+ashby,cinder,Cinder
+ashby,fleek,Fleek
+greenhouse,remi,Remi
+ashby,govdash,GovDash
+ashby,eventual,Eventual
+ashby,rallyuxr,Rally UXR
+ashby,blink,Blink
+ashby,stream,Stream
+ashby,julius,Julius
+ashby,two-dots,Two Dots
+ashby,realitydefender,Reality Defender
+greenhouse,raven,Raven
+ashby,tailor,Tailor
+ashby,novig,Novig
+ashby,blee,Blee
+ashby,windmill,Windmill
+ashby,juicebox,Juicebox
+ashby,thera,Thera
+lever,maverickx,MaverickX
+ashby,aurelian,Aurelian
+ashby,metriport,Metriport
+ashby,kombo,Kombo
+ashby,ekho,Ekho
+ashby,quindar,Quindar
+ashby,aiprise,AiPrise
+ashby,firecrawl,Firecrawl
+ashby,oneleet,Oneleet
+ashby,knowtex,Knowtex
+greenhouse,axle,Axle
+ashby,avoca,Avoca
+ashby,infisical,Infisical
+greenhouse,reflex,Reflex
+ashby,finvest,Finvest
+ashby,cambio,Cambio
+ashby,concourse,Concourse
+ashby,latent,Latent
+ashby,nango,Nango
+ashby,numeral,Numeral
+ashby,salient,Salient
+ashby,tennr,Tennr
+ashby,goveagle,GovEagle
+ashby,magicpatterns,Magic Patterns
+ashby,rollstack,Rollstack
+ashby,coperniq,Coperniq
+ashby,vooma,Vooma
+ashby,pirros,Pirros
+ashby,cosine,Cosine
+ashby,relace,Relace
+ashby,inkeep,Inkeep
+lever,suger,Suger
+greenhouse,onshore,Onshore
+ashby,vitalize,Vitalize
+ashby,loula,Loula
+ashby,invopop,Invopop
+ashby,conduit,Conduit
+ashby,vector,Vector
+ashby,metal,Metal
+ashby,finni-health,Finni Health
+ashby,escape,Escape
+ashby,pylon,Pylon
+ashby,litellm,LiteLLM
+ashby,automat,Automat
+ashby,hockeystack,HockeyStack
+ashby,artie,Artie
+ashby,twenty,Twenty
+ashby,hyperbound,Hyperbound
+ashby,yumaai,Yuma AI
+greenhouse,diligent,Diligent
+ashby,casca,Casca
+ashby,airgoods,Airgoods
+lever,prosper,Prosper
+ashby,subsets,Subsets
+ashby,terminal,Terminal
+ashby,outset,Outset
+ashby,electricair,Electric Air
+ashby,fleetworks,FleetWorks
+ashby,solveintelligence,Solve Intelligence
+ashby,capimoney,Capi Money
+ashby,campfire,Campfire
+ashby,fortuna-health,Fortuna Health
+ashby,decodahealth,Decoda Health
+ashby,brettonai,Bretton AI
+ashby,sola,Sola
+ashby,safetykit,SafetyKit
+ashby,sweep,Sweep
+ashby,langdock,Langdock
+ashby,pure,Pure
+ashby,shadeform,Shadeform
+greenhouse,flex,Flex
+ashby,healthtech-1,Healthtech 1
+ashby,onyx,Onyx
+ashby,greptile,Greptile
+ashby,legora,Legora
+ashby,tekton-dynamics,Tekton Dynamics
+greenhouse,navierai,Navier AI
+greenhouse,momentic,Momentic
+greenhouse,newton,Newton
+ashby,tuesday-labs,Tuesday Labs
+ashby,reducto,Reducto
+greenhouse,paradigm,Paradigm
+greenhouse,feanixbiotechnologies,Feanix Biotechnologies
+ashby,pointone,PointOne
+ashby,arini,Arini
+ashby,furtherai,FurtherAI
+ashby,artisan,Artisan
+ashby,greenboard,Greenboard
+ashby,garage,Garage
+ashby,pivotrobotics,Pivot Robotics
+ashby,clarion,Clarion
+ashby,centralize,Centralize
+ashby,astro-mechanica,Astro Mechanica
+ashby,tamarindbio,Tamarind Bio
+ashby,offdeal,OffDeal
+ashby,opencall,Opencall
+ashby,circleback,Circleback
+greenhouse,hazel,Hazel
+ashby,retell-ai,Retell AI
+ashby,brainbaselabs,Brainbase Labs
+ashby,spur,Spur
+ashby,blacksmith,Blacksmith
+ashby,ultra,Ultra
+ashby,mem0,Mem0
+ashby,claimsorted,ClaimSorted
+ashby,codes-health,Codes Health
+ashby,sagecare,Sage Care
+ashby,phonely,Phonely
+ashby,substrate,Substrate
+ashby,kastle,Kastle
+ashby,conveo,Conveo
+ashby,clearly-ai,Clearly AI
+ashby,saturn,Saturn
+ashby,anara,Anara
+ashby,david-ai,David AI
+ashby,zeit-ai,Zeit AI
+greenhouse,pulse,Pulse
+ashby,simple-ai,Simple AI
+ashby,thundercompute,Thunder Compute
+ashby,dataleap,Dataleap
+ashby,usul,Usul
+ashby,conductor,Conductor
+ashby,telli,telli
+ashby,ctgt,CTGT
+lever,unusual,Unusual
+ashby,capy,Capy
+ashby,ryvn,Ryvn
+ashby,apolink,Apolink
+ashby,bild-ai,Bild AI
+ashby,flowtel,Flowtel
+greenhouse,axiom,Axiom
+ashby,reviserobotics,Revise Robotics
+ashby,salespatriot,SalesPatriot
+greenhouse,osmosis,Osmosis
+ashby,hud,hud
+greenhouse,weave,Weave
+ashby,mosaic,Mosaic
+ashby,solidroad,Solidroad
+ashby,infinite,Infinite
+ashby,afterquery,AfterQuery
+greenhouse,mesh,Mesh
+ashby,mercura,Mercura
+ashby,ambral,Ambral
+ashby,blaxel,Blaxel
+ashby,chestnut,Chestnut
+ashby,minerva,Minerva
+ashby,auctor,Auctor
+greenhouse,attune,Attune
+ashby,claim-health,Claim Health
+ashby,sim,Sim
+lever,bloom,Bloom
+ashby,lucis,Lucis
+ashby,sygaldry-technologies,Sygaldry Technologies
+ashby,eloquentai,Eloquent AI
+ashby,prox,Prox
+ashby,dedalus-labs,Dedalus Labs
+ashby,mangodesk,MangoDesk
+ashby,agentmail,AgentMail
+ashby,truthsystems,truthsystems
+ashby,careswift,CareSwift
+ashby,bootloop,BootLoop
+ashby,flai,Flai
+ashby,comena,Comena
+ashby,solva,Solva
+ashby,interface,Interface
+ashby,idler,Idler
+ashby,finto,Finto
+ashby,reacher,Reacher
+ashby,fleetline,Fleetline
+greenhouse,burnt,burnt
+ashby,nox-metals,Nox Metals
+ashby,uplane,Uplane
+ashby,hyperspell,Hyperspell
+ashby,hypercubic,Hypercubic
+ashby,sf-tensor,SF Tensor
+greenhouse,icarus,Icarus
+ashby,moss,Moss
+ashby,diligencesquared,DiligenceSquared
+ashby,lance,Lance
+ashby,asimov,Asimov
+greenhouse,clara,Clara
+ashby,stilta,Stilta
+ashby,pax-historia,Pax Historia
+ashby,cardboard,Cardboard
+ashby,polymath,Polymath
+greenhouse,superset,Superset
+ashby,humanarchive,Human Archive
+greenhouse,openwork,OpenWork
+greenhouse,razorpaysoftwareprivatelimited,Razorpay
+greenhouse,druva,Druva
+ashby,atlan,Atlan
+greenhouse,vercel,Vercel
+greenhouse,mozilla,Mozilla
+greenhouse,grafanalabs,Grafana Labs
+greenhouse,remotecom,Remote.com
+greenhouse,turing,Turing
+greenhouse,twilio,Twilio
+lever,toptal,Toptal
+ashby,supabase,Supabase
+ashby,tldraw,tldraw
+ashby,resend,Resend
